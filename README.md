@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @vickeymadhukar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in GamDev
+- 🌱 I’m currently learning Unity Engine
 - 📫 How to reach me ...
 
 <!---
-vickeymadhukar/vickeymadhukar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Passionate B.Tech Computer Science student specializing in game development. 💡 Avid gamer turned developer, creating immersive gaming experiences with a blend of creativity and technical prowess. 🚀 Excited to contribute to the future of interactive entertainment. 🌐✨ #GameDev #TechEnthusiast 🚴‍♂️ In constant pursuit of coding excellence.
 --->
